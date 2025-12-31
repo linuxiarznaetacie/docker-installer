@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Copyright (c) 2025 Jakub Orłowski
+# Licensed under the MIT License. See LICENSE for details.
+
 set -e 
 
 sudo apt update && clear
